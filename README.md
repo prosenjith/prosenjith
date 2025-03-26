@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @prosenjith
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Clean Architecture
-- 💞️ I’m looking to collaborate on Native Android Project
-- 📫 How to reach me - email: royprosenjith@gmail.com
+### 👋 Hi there, I’m Prosenjith (@prosenjith)
 
-<!---
-prosenjith/prosenjith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 **Senior Android Developer** with a passion for crafting clean, scalable, and user-centric mobile applications.  
+📱 Specialized in **Native Android Development** using **Kotlin**, **Jetpack Compose**, and modern Android architecture components.
+
+---
+
+🔍 **Interests**  
+- Building high-performance Android apps  
+- Exploring **Clean Architecture** & **Modular App Design**  
+- UI/UX design with **Jetpack Compose**  
+
+🤝 **Looking to Collaborate On**  
+- Android projects  
+- Innovative ideas in the mobile app space
+
+📫 **Reach Me At**  
+📧 royprosenjith@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/prosenjith-roy-shuvo-33633a188/)
+
+---
+
+🚀 Let’s build something amazing together!
