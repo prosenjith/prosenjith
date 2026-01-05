@@ -39,7 +39,7 @@ I specialize in delivering **production-grade mobile apps** with a strong focus 
 
 📫 **Reach Me At**
 - 📧 Email: royprosenjith@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/prosenjith-roy-shuvo-33633a188  
+- 💼 LinkedIn: https://www.linkedin.com/in/prosenjith-roy
 
 ---
 
