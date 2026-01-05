@@ -1,23 +1,46 @@
-### 👋 Hi there, I’m Prosenjith (@prosenjith)
+## 👋 Hi, I’m Prosenjith Roy Shuvo (@prosenjith)
 
-💼 **Senior Android Developer** with a passion for crafting clean, scalable, and user-centric mobile applications.  
-📱 Specialized in **Native Android Development** using **Kotlin**, **Jetpack Compose**, and modern Android architecture components.
+**Senior Mobile Engineer** with nearly **5 years of experience** building and scaling **Android and Flutter applications** used by **millions of users** across fintech and telecom domains.
 
----
-
-🔍 **Interests**  
-- Building high-performance Android apps  
-- Exploring **Clean Architecture** & **Modular App Design**  
-- UI/UX design with **Jetpack Compose**  
-
-🤝 **Looking to Collaborate On**  
-- Android projects  
-- Innovative ideas in the mobile app space
-
-📫 **Reach Me At**  
-📧 royprosenjith@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/prosenjith-roy-shuvo-33633a188/)
+I specialize in delivering **production-grade mobile apps** with a strong focus on **clean architecture, performance, scalability, and maintainability**.
 
 ---
 
-🚀 Let’s build something amazing together!
+### 🔹 What I Do
+- Design and build **high-scale Android & Flutter applications**
+- Architect apps using **MVVM and Clean Architecture**
+- Own features end-to-end: **design → implementation → release**
+- Work extensively with **CI/CD pipelines, multi-flavor builds, and production releases**
+- Collaborate closely with product, design, and backend teams
+
+---
+
+### 🔹 Tech Stack
+- **Languages:** Kotlin, Dart, Java  
+- **Android:** Jetpack Compose, MVVM, Clean Architecture, Coroutines, Flow  
+- **Flutter:** Provider / Riverpod, multi-flavor apps  
+- **Networking:** Retrofit, REST APIs  
+- **Tools & Platforms:** Firebase, Git, CI/CD pipelines  
+
+---
+
+### 🔹 Selected Work
+- **MyRobi, MyAirtel, MyBL** — Large-scale telecom apps with **10M+ users**
+- **OneTouch (MFS App)** — Enterprise-grade mobile financial services app *(in development)*
+- **Farmer Platform** — Multi-module fintech platform *(in development)*
+
+---
+
+### 🔹 Currently Open To
+- **Remote or international Senior Mobile Engineer roles**
+- Product-driven teams building **real-world, high-impact applications**
+
+---
+
+📫 **Reach Me At**
+- 📧 Email: royprosenjith@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/prosenjith-roy-shuvo-33633a188  
+
+---
+
+🚀 *Always excited to work on meaningful, large-scale mobile products.*
